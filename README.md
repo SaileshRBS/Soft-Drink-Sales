@@ -19,6 +19,7 @@ This Power BI dashboard thoroughly examines the Soft Drink Sales dataset, provid
 
 
 Data Dictionary
+
 **Product**: The type of soft drink product sold (e.g., coffee, wine, cola, energy drink).
 
  **Company**: The company that manufactures or distributes the product (e.g., Coca-Cola, Pepsi, Dr. Pepper).
