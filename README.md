@@ -3,13 +3,16 @@ Overview:
 This Power BI dashboard thoroughly examines the Soft Drink Sales dataset, providing valuable insights on revenues and profits. Its purpose is to assist organization in making well-informed decisions using the data from the Soft Drink Sales
 1 Time Trends:
 •	How has Revenue evolved over time?
+
 2 Global Profits:
 •	Which regions are contributing the most to our Revenue?
+
 3 Product and Category Performance:
 •	Which products or categories are driving the most revenue?
+
 4 Profits by Category:
 •	What is the top-selling product categories?
-Sure, here's a data dictionary for the soft drinks dataset:
+
 
 Data Dictionary
 **Product**: The type of soft drink product sold (e.g., coffee, wine, cola, energy drink).
@@ -43,7 +46,8 @@ This data dictionary provides descriptions for each column in the dataset, helpi
 
 Usage
 
-
-1.	Download and open the Power BI file (Soft Drink Sales.pbix).
-2.	Connect the Power BI file to your Soft Drink Sales dataset.
-3.	Explore the dashboard to gain insights into the data.
+	Download and open the Power BI file (Soft Drink Sales.pbix).
+ 
+ Connect the Power BI file to your Soft Drink Sales dataset.
+ 
+ Explore the dashboard to gain insights into the data.
